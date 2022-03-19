@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/liu/Documents/Life/0.11/Life_v011/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -o CMakeFiles/Life.dir/main.cpp.o -c /Users/liu/Documents/Life/0.11/Life_v011/main.cpp",
+  "file": "/Users/liu/Documents/Life/0.11/Life_v011/main.cpp"
+}
+]
